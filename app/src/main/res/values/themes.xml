@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.QuoteComponentApp" parent="android:Theme.Material.Light.NoActionBar">
+    <item name="android:statusBarColor" type="color">#7E7575</item>
+    </style>
+
+</resources>
